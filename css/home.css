@@ -1,0 +1,54 @@
+body{
+    background:rgb(0, 0, 0);
+}
+h1{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+label{
+    color: white;
+}
+button{
+    color: rgb(255, 255, 255);
+    border-radius: 20%;
+    height: 10px;
+    background: #212020;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+iframe{
+    width: 50vw;
+    height: 26.25vw;
+    max-width: 100vh;
+    max-height: 170vh;
+
+}
+.title{
+    width: 500px;
+    height: auto;
+    top: 30px;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    display: inline;
+}
+.video{
+    width: 600;
+    height: 400;
+    display: block;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+}
+.contain{
+    display: block;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+}
+.titulo-grande {
+    font-size: 20px; /* Aumenta o título */
+}
+.btnOk{
+    font-size: 14px;
+    height: 24px;
+}
